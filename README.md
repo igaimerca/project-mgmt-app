@@ -1,1 +1,1 @@
-# A Simple Graphql project management app
+# A Graphql project management app
